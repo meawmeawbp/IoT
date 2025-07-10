@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # โหลดวิดีโอ
-video_path = r"C:\miewmiew\Hackathon\IoT\checkcheck\clip1.mp4"
+video_path = "/mnt/data/Untitled video - Made with Clipchamp.mp4"
 cap = cv2.VideoCapture(video_path)
 
 # ตั้งค่าการบันทึกวิดีโอผลลัพธ์ (Optional)
